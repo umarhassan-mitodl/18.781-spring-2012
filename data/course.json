@@ -1,0 +1,46 @@
+{
+  "term": "Spring",
+  "year": "2012",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ]
+  ],
+  "legacy_uid": "0d05d096-e6a2-2313-56cb-efdb39c5893f",
+  "instructors": {
+    "content": [
+      "006e5c25-e7be-44ee-b7a0-e39b494bf627"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "bf03a874-c1b7-c5c3-eb19-4d0086a8a97b",
+    "website": "18-781-theory-of-numbers-spring-2012"
+  },
+  "course_title": "Theory of Numbers",
+  "hide_download": true,
+  "course_description": "This course is an elementary introduction to number theory with no algebraic prerequisites. Topics covered include primes, congruences, quadratic reciprocity, diophantine equations, irrational numbers, continued fractions, and partitions.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.781",
+  "course_image_thumbnail": {
+    "content": "1d2103fd-a8ea-ddff-08bd-d2e4c7261e09",
+    "website": "18-781-theory-of-numbers-spring-2012"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Lecture Notes"
+  ],
+  "site_uid": "24e2ea18-f98f-4b2e-b655-2a39583c5d0d",
+  "site_short_id": "18.781-spring-2012",
+  "site_url_path": "courses/18-781-theory-of-numbers-spring-2012",
+  "title": "Course Metadata"
+}
