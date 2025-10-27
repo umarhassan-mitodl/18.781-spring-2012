@@ -3,8 +3,6 @@ content_type: page
 description: This section provides the two midterm exams and the final exam, along
   with a set of practice problems, exam guidelines, and solutions for each of the
   three exams.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

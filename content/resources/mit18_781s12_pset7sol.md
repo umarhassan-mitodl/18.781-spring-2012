@@ -5,8 +5,6 @@ description: This resource contains information regarding theory of numbers, sol
 file: /courses/18-781-theory-of-numbers-spring-2012/46d7b35ebeb45a0e37182d3f520e2a7f_MIT18_781S12_pset7sol.pdf
 file_size: 191153
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

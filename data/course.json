@@ -22,7 +22,6 @@
     "website": "18-781-theory-of-numbers-spring-2012"
   },
   "course_title": "Theory of Numbers",
-  "hide_download": true,
   "course_description": "This course is an elementary introduction to number theory with no algebraic prerequisites. Topics covered include primes, congruences, quadratic reciprocity, diophantine equations, irrational numbers, continued fractions, and partitions.\n",
   "department_numbers": [
     "18"
@@ -33,7 +32,6 @@
     "content": "1d2103fd-a8ea-ddff-08bd-d2e4c7261e09",
     "website": "18-781-theory-of-numbers-spring-2012"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets with Solutions",
     "Exams with Solutions",

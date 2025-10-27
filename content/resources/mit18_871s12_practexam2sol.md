@@ -5,8 +5,6 @@ description: This file contains information regarding Practice Questions for Mid
 file: /courses/18-781-theory-of-numbers-spring-2012/32dc844ad021043629e6744d22663b31_MIT18_871S12_practExam2Sol.pdf
 file_size: 100476
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

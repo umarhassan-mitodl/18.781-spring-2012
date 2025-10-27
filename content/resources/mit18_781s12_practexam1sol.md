@@ -5,8 +5,6 @@ description: This file contains information regarding Solutions to practice prob
 file: /courses/18-781-theory-of-numbers-spring-2012/6c4ad9cd4cd074fb83563b8e9719bafa_MIT18_781S12_practExam1Sol.pdf
 file_size: 80483
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

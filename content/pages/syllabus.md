@@ -2,8 +2,6 @@
 content_type: page
 description: This syllabus section provides an overview of the course and information
   on meeting times, prerequisites, textbooks, homework, and grading.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -52,11 +50,11 @@ This is a classic.
 
 It has a very different style from the usual theorem-proof-exercise setup of usual textbooks.
 
-*   Ireland, Kenneth F., and Michael I. Rosen. _A Classical Introduction to Modern Number Theory_. Springer, 1990. ISBN: 9780387973296. \[Preview with [Google Books](http://books.google.com/books?id=jhAXHuP2y04C&pg=Pafrontcover)\]
+*   Ireland, Kenneth F., and Michael I. Rosen. _A Classical Introduction to Modern Number Theory_. Springer, 1990. ISBN: 9780387973296. \[Preview with {{% resource_link "06150ca9-6649-4c56-983b-6be64ed295c8" "Google Books" %}}\]
 
 Assumes more algebra background, but goes quite far, taking the reader to some of the frontiers of algebraic number theory.
 
-Another source is Franz Lemmermeyer's lecture notes online ([PDF](http://www.fen.bilkent.edu.tr/~franz/nth06/nth.pdf)). These assume a bit more background than Niven, Zuckerman and Montgomery, but perhaps not as much as Ireland and Rosen.
+Another source is Franz Lemmermeyer's lecture notes online ({{% resource_link "86d07977-6360-4038-96b1-5483e5e78dcc" "PDF" %}}). These assume a bit more background than Niven, Zuckerman and Montgomery, but perhaps not as much as Ireland and Rosen.
 
 Homework
 --------

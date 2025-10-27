@@ -4,8 +4,6 @@ description: This file contains information regarding Guidelines for Midterm 2.
 file: /courses/18-781-theory-of-numbers-spring-2012/23065a7d844b0bc2650c0ffb751df72d_MIT18_781S12_guidelines2.pdf
 file_size: 60517
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
